@@ -9,4 +9,4 @@
   """
   npm install && ng serve --open
   """
-- !["photo title"]("./app.png")
+- ![photo title](/app.png)
