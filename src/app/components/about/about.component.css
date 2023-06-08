@@ -1,0 +1,14 @@
+.about {
+  border-top: 1px solid gray;
+}
+
+.about a {
+  text-decoration: none;
+  font-size: 20px;
+}
+.about a:visited {
+  color: black;
+}
+.about a:active {
+  border: 1px solid green;
+}
